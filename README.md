@@ -1,4 +1,4 @@
-#OR Report Geenerator
+**OR Report Geenerator**
 Gen AI project - generates full OR report form simple prompt
 
 I wanted to build a tool that generates surgical reports for simple prompts. Takes a brief description and outputs a detailed operative note. For the sake of focused simplicity, I used only appendectomy for now. 
